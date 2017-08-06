@@ -1,0 +1,13 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Flowplayer Demo</title>
+</head>
+<body>
+<div>
+   <video controls width="624" height="260">
+      <source type="video/mp4" src="//edge.flowplayer.org/bauhaus.mp4">
+   </video>
+</div>
+</body>
+</html>
